@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Jay-debug4
-- 👀 I’m interested in ... programming and 3D Design
-- 🌱 I’m currently learning ... Morse code and kotlin
-- 💞️ I’m looking to collaborate on ... Nothing really
-- 📫 How to reach me ... quinlan.jay@icloud.com OR visit my website at http://58.96.88.195/
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I can (kind of) program in 16 differnt text-based laungages
+- 👀 I’m interested in ... Programming, 3D design and flying aircraft
+- 🌱 I’m currently learning ... To fly planes, and get better at programming
+- 💞️ I’m looking to collaborate on ... My artifically intelligent face-tracking nerf robot, and other projects
+- 📫 How to reach me ... quinlan.jay@icloud.com, youtube channel (Jay Quinlan), I have a website in the works aswell
+- ⚡ Fun fact: ... I'm a DnD Dungeon master
 
 <!---
 Jay-debug4/Jay-debug4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
